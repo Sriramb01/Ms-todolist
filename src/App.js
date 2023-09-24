@@ -17,7 +17,7 @@ function App() {
     <div>
       <BrowserRouter >
       <Routes>
-      <Route path='/Todo-list' element={<Header/>}/>
+      <Route path='/' element={<Header/>}/>
       <Route path="sigin" element={<SignIn/>}/>
         <Route  element={<Layout/>}>
 
