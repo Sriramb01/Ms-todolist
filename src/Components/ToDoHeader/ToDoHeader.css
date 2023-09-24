@@ -1,0 +1,51 @@
+.ToDo_header{
+    display: flex;
+    background-color:  #0071c8; 
+    min-height: 48px;
+    justify-content: space-between;
+    padding: 5px;
+    align-items: center;
+
+}
+.head_fs
+{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.ap_launch{
+    height: 30px;
+   
+}
+.s1{
+    display: inline-block;
+    font-weight: 600;
+    font-size: 16px;
+    color: white;
+}
+.search{
+    padding: 5px;
+    cursor: pointer;
+   max-height: 30px;
+    width: 400px;
+    background-color: white;
+    line-height: 1.9rem;
+    border-radius: 6px;
+    border: none;
+}
+.search{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+.search_img{
+    height: 20px;
+}
+.last_img{
+    display: flex;
+    gap: 20px;
+}
+.las_img{
+    height: 20px;
+}

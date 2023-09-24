@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Todo-list/static/css/main.4c4d0c3d.css",
+    "main.js": "/Todo-list/static/js/main.2fd5959e.js",
+    "static/media/logo.png": "/Todo-list/static/media/logo.35c2e712a2ee0518463f.png",
+    "static/media/welcome-left.png": "/Todo-list/static/media/welcome-left.469455989e2f4ae2d6b7.png",
+    "static/media/welcome-right.png": "/Todo-list/static/media/welcome-right.c28fce19c0030eb96000.png",
+    "static/media/login_m.svg": "/Todo-list/static/media/login_m.564db913a7fa0ca42727161c6d031bef.svg",
+    "static/media/android.svg": "/Todo-list/static/media/android.30b203e562eb38df5a52c1d2c010fd36.svg",
+    "static/media/windows.svg": "/Todo-list/static/media/windows.517ca9aa5e35237309e472bbb777d4d1.svg",
+    "static/media/apple.svg": "/Todo-list/static/media/apple.3732e3a05a6a27d26ffd2e99b7c66a31.svg",
+    "static/media/search_h.svg": "/Todo-list/static/media/search_h.e4130d48b7280b67ef2b8ce984efc0a1.svg",
+    "index.html": "/Todo-list/index.html",
+    "static/media/person.svg": "/Todo-list/static/media/person.c82a9a70a4fed919e1d7ae227ccb1c06.svg",
+    "main.4c4d0c3d.css.map": "/Todo-list/static/css/main.4c4d0c3d.css.map",
+    "main.2fd5959e.js.map": "/Todo-list/static/js/main.2fd5959e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c4d0c3d.css",
+    "static/js/main.2fd5959e.js"
+  ]
+}

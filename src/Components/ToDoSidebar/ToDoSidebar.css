@@ -1,0 +1,74 @@
+.ToDoside_head{
+    display: flex;
+    flex-direction: column;
+    max-width: 290px;
+    gap: 40px;
+    padding: 20px;
+    
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+    box-shadow: 0px 0.3px 0.9px var(--bg-shadow),0px 1.6px 3.6px var(--bg-shadow);
+    background-color:whitesmoke;
+    justify-content: space-between;
+}
+.i1{
+    height: 50px;
+    width: 30px;
+    
+    
+}
+.i2{
+    height: 25px;
+    width: 25px;
+}
+.p1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    cursor: pointer;
+}
+.new_list{
+    color: #0067b8;
+}
+.side_mid{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding: 20px;
+    box-shadow: 0px 0.3px 0.9px var(--bg-shadow),0px 1.6px 3.6px var(--bg-shadow);
+    background-color:whitesmoke;
+    max-width: 290px;
+}
+.e1{
+    height: 20px;
+    width: 20px;
+}
+.side_end{
+    display: flex;
+    gap: 25px;
+    padding: 20px;
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding: 20px;
+    box-shadow: 0px 0.3px 0.9px var(--bg-shadow),0px 1.6px 3.6px var(--bg-shadow);
+    background-color:whitesmoke;
+    max-width: 290px;
+    
+    
+}
+.middle_gap{
+    position: relative;
+    box-sizing: border-box;
+    overflow: hidden;
+    padding: 20px;
+    box-shadow: 0px 0.3px 0.9px var(--bg-shadow),0px 1.6px 3.6px var(--bg-shadow);
+    background-color:whitesmoke;
+    max-width: 290px;
+    min-height:100px ;
+    
+}

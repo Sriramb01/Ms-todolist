@@ -1,0 +1,134 @@
+
+.day_m {
+    width: 100%;
+    padding: 30px;
+  }
+  
+  .main {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .t1 {
+    height: 20px;
+    width: 20px;
+  }
+  
+  .myday_end {
+    display: flex;
+    gap: 30px;
+  }
+  
+  .sun {
+    height: 20px;
+    align-items: center;
+  }
+  
+  .myday_head {
+    gap: 10px;
+  }
+  
+  .dayr {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .sort_i {
+    display: flex;
+  }
+  
+  .d1 {
+    height: 20px;
+    width: 20px;
+  }
+  
+  .d2 {
+    height: 25px;
+    width: 25px;
+  }
+  
+  .down_content {
+    display: flex;
+    padding: 0px 16px;
+    transition: height 200ms cubic-bezier(0.25, 0.1, 0.25, 1) 0s;
+    justify-content: space-between;
+    overflow: hidden;
+    position: relative;
+    flex-shrink: 0;
+    background-color: #FAF9F8;
+    padding: 10px;
+  }
+  
+  .img_con {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .up_content {
+    display: flex;
+    padding: 0px 16px;
+    transition: height 200ms cubic-bezier(0.25, 0.1, 0.25, 1) 0s;
+    overflow: hidden;
+    position: relative;
+    flex-shrink: 0;
+    min-height: 52px;
+  }
+  
+  .textbox {
+    outline: none;
+    border: none;
+    width: 100%;
+    min-height: 40px;
+    border-radius: 2px;
+    border-color: transparent;
+  }
+  
+  .task_toolbar_content {
+    margin-top: 30px;
+    border: 1px solid white;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  
+  .task_container {
+    display: flex;
+    align-items: center;
+    padding: 0px 16px;
+    transition: height 200ms cubic-bezier(0.25, 0.1, 0.25, 1) 0s;
+    justify-content: space-between;
+    overflow: hidden;
+    position: relative;
+    flex-shrink: 0;
+    min-height: 52px;
+    background-color: #FAF9F8;
+  }
+  
+  .radius {
+    margin-right: 10px;
+  }
+  
+  
+  .task_list h3 {
+    margin-top: 20px;
+  }
+  .button1{
+    width: 50px;
+    height: 20px;
+    background-color:white;
+    border: 1px solid;
+    
+    text-align: center
+    
+    
+    
+  }
+  .star1{
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+  }
+  .task_list{
+    display: flex;
+    
+  }
+  

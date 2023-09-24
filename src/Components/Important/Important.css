@@ -1,0 +1,108 @@
+.star2{
+   width: 20px;
+   height: 20px;
+}
+.imp_star{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.imp_head{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.dot2{
+    height: 10px;
+    width: 10px;
+}
+.sort3{
+    width: 20px;
+    height: 20px;
+}
+.main_imp{
+    width: 100%;
+    padding: 30px;
+}
+.imp_sort{
+    display: flex;
+}
+.radius2{
+    outline: none;
+    border: none;
+    width: 100%;
+    min-height: 40px;
+    border-radius: 2px;
+    border-color: transparent;
+}
+.down1{
+    display: flex;
+    padding: 0px 16px;
+    transition: height 200ms cubic-bezier(0.25, 0.1, 0.25, 1) 0s;
+    overflow: hidden;
+    position: relative;
+    flex-shrink: 0;
+    min-height: 52px;
+}
+.img_down{
+    display: flex;
+    gap: 20px;
+}
+.d1{
+    height: 20px;
+    width: 20px;
+}
+.d2{
+    height: 25px;
+    width: 25px;
+}
+.imp_page_down{
+    margin-top: 30px;
+    border: 1px solid white;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    margin-top: 80px;
+}
+.down2{
+    display: flex;
+    padding: 0px 16px;
+    transition: height 200ms cubic-bezier(0.25, 0.1, 0.25, 1) 0s;
+    justify-content: space-between;
+    overflow: hidden;
+    position: relative;
+    flex-shrink: 0;
+    background-color: #FAF9F8;
+    padding: 10px;
+}
+.Add{
+    width: 50px;
+    height: 20px;
+    background-color:white;
+    border: 1px solid;
+    
+    text-align: center
+    
+}
+.s9{
+    height: 20px;
+    width: 20px;
+}
+.d3{
+    height: 20px;
+    width: 20px;
+}
+.Input_cont{
+    display: flex;
+    align-items: center;
+    padding: 0px 16px;
+    transition: height 200ms cubic-bezier(0.25, 0.1, 0.25, 1) 0s;
+    
+    overflow: hidden;
+    position: relative;
+    flex-shrink: 0;
+    min-height: 52px;
+    background-color: #FAF9F8;
+}
+.Sta1{
+    height: 20px;
+    width: 20px;
+}
